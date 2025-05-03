@@ -4,7 +4,7 @@ setup(
     name="log_checker",
     version="0.9",
     packages=["logchecker"],
-    url="https://github.com/Lifars/log-checker",
+    url="https://fiveguard.net/",
     license="",
     author="Lifars",
     author_email="",
